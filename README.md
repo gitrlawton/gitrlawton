@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS"/>
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" title="Django"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Google Firebase"/>
-    <img src="https://user-images.githubusercontent.com/62756402/219742406-3705ec7a-8fb5-43cf-906e-1d59f5db93c6.png" alt="flask" width="40" height="40" title="Flask"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40" title="Flask"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" title="Next.js"/>
