@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Ryan 👋</h1>
-<h3 align="center">I'm currently a Computer Science student at Orange Coast College and a Peer Mentor at CodePath. I’m excited to explore internship opportunities for Fall 2025 where I can apply my knowledge and collaborate on innovative projects.</h3>
+<h3 align="center">I'm currently studying Computer Science at Orange Coast College and serving as a Tech Fellow & Peer Mentor at CodePath. I'm excited to explore Summer 2026 internship opportunities where I can apply my knowledge, learn from others, and make meaningful contributions to innovative projects.</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
