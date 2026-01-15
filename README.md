@@ -28,4 +28,4 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" title="Kotlin"/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-one-ochre.vercel.app?user=gitrlawton" alt="gitrlawton" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats-one-ochre.vercel.app?user=gitrlawton&v2" alt="gitrlawton" /></p>
