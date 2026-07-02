@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Ryan 👋</h1>
-<h3 align="center">I'm currently studying Computer Science at Orange Coast College while serving as a Tech Fellow at CodePath and an Android Developer at PopStock. I'm excited to explore Summer 2026 internship opportunities where I can apply my knowledge, learn from others, and make meaningful contributions to innovative projects.</h3>
+<h3 align="center">I'm currently studying Computer Science at Orange Coast College while serving as a Tech Fellow at CodePath and an Android Developer at PopStock. I'm excited to explore Fall 2026 internship opportunities where I can apply my knowledge, learn from others, and make meaningful contributions to innovative projects.</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
